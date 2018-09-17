@@ -1,0 +1,52 @@
+sup {
+  margin: 0 0 15px 0;
+}
+#ketqua {
+  height:50px;
+  background-color: #165569;
+  text-align: right;
+  font-size: 25px;
+  line-height: 35px;
+  color: white;
+}
+
+.calculator {
+  width: 500px;
+  margin: auto;
+}
+#result {
+  color: white;
+  padding-right: 5px;
+  height: 100px;
+  background: #165569;
+  font-size: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button {
+  cursor: pointer;
+  float: left;
+  width: 100px;
+  height: 100px;
+  transition: all 0.5s;
+  font-size: 30px;
+  background: #1D3C49;
+  border: 1px solid #1D414D;
+  float: left;
+  cursor: pointer;
+  color: #14d9e0;
+}
+
+.num {
+  color: white
+}
+.o {
+  width: 200px;
+}
+#equal {
+  background: #14d9e0;
+    font-size: 40px;
+    width: 200px;
+    color: white;
+}
